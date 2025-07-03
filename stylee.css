@@ -1,0 +1,53 @@
+ .body {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding: 30px;
+      background-color: white;
+      color: black;
+      transition: 0.5s;
+      max-width: 600px;
+    }
+
+    h2 {
+      margin-top: 20px;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+
+    }
+
+    #generate {
+      background-color: #3f51b5;
+      color: white;
+    }
+
+    #darkModeBtn {
+      background-color: rgb(8, 8, 8);
+      color: white;
+    }
+
+    #resultBox {
+      margin-top: 20px;
+      border: 1px solid rgb(139, 132, 132);
+      padding: 15px;
+      border-radius: 8px;
+      display: none;
+    }
+
+    .dark-mode {
+      background-color: #000000;
+      color:white;
+    }
+
+    .dark-mode button {
+      background-color: white;
+      color: black;
+    }
+    .nn{background-color: #3f51b5; color: white;}
+    .container{margin-top: 5px;}
+     .nnn{background-color: #3f51b5; color: white;}
+     
